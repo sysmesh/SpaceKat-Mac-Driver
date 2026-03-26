@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "424CB4F56F20829DE9A39D313903EC634B358274",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "424CB4F56F20829DE9A39D313903EC634B358274" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DC38736E-0EA8-461E-AEEA-BBCE46DCDB23",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "424CB4F56F20829DE9A39D313903EC634B358274" : "SpaceKat-Mac-Driver\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SpaceKatDriver",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SpaceKatDriver.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sysmesh\/SpaceKat-Mac-Driver.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "424CB4F56F20829DE9A39D313903EC634B358274"
+    }
+  ]
+}

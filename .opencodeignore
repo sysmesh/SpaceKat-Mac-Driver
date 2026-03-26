@@ -1,0 +1,21 @@
+# Build artifacts
+DerivedData/
+build/
+*.app
+*.framework
+*.dSYM
+
+# Xcode user-specific noise
+*.xcuserdatad
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Dependency managers
+SourcePackages/
+.swiftpm/
+Carthage/Checkouts/
+Pods/
+
+# System & Version Control
+.git/
+.DS_Store
